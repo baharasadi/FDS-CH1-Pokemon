@@ -20,9 +20,9 @@ Run these from the repository root.
 
 | File | Model | Features | Public score |
 |---|---|---|---|
-| `submission_ensemble_v2.csv` | logistic regression, gradient boosting and extra trees, soft voting | first and second round | 0.69600 |
+| `submission_ensemble_v2.csv` | logistic regression, gradient boosting and extra trees, soft voting | first and second round | 0.69400 |
 | `submission_logreg.csv` | logistic regression | first round | 0.68800 |
-| `submission_hgb_v2.csv` | gradient boosting | first and second round | 0.68666 |
+| `submission_hgb_v2.csv` | gradient boosting | first and second round | 0.69133 |
 
 ## Code
 
